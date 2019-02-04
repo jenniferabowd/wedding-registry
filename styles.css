@@ -1,0 +1,20 @@
+body {
+  color: #0B0C11;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+section:first-of-type {
+  background: #A7CFE1;
+  padding: 16px;
+}
