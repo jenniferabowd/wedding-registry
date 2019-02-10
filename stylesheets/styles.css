@@ -1,15 +1,24 @@
 body {
   color: #0B0C11;
-  font-family: 'Open Sans', sans-serif;
+  font-family: myriad-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h1 {
   font-size: 36px;
-  font-family: 'Roboto', sans-serif;
   text-align: center;
+  font-family: chippewa-falls, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h2 {
+  font-family: coquette, sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 p {
   font-size: 16px;
 }
-
