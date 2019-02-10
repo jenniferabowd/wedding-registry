@@ -1,6 +1,5 @@
 body {
   color: #0B0C11;
-  font-size: 16px;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -10,7 +9,7 @@ h1 {
   text-align: center;
 }
 
-section:first-of-type {
-  padding: 16px;
+p {
+  font-size: 16px;
 }
 
