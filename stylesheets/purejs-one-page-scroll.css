@@ -130,12 +130,12 @@ header {
   position: relative;
   z-index: 10;
 }
-.main section .page_container {
+/* .main section .page_container {
   position: relative;
   margin: 0 auto 0;
   max-width: 950px;
   z-index: 3;
-}
+} */
 .main section  {
   overflow: hidden;
 }
