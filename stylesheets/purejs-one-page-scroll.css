@@ -38,7 +38,6 @@ body, .onepage-wrapper, html {
   margin: 0;
   padding: 0;
 }
-
 .onepage-pagination li {
   padding: 0;
   text-align: center;
@@ -55,7 +54,7 @@ body, .onepage-wrapper, html {
   position: absolute;
   width: 4px;
   height: 4px;
-  background: #333;
+  background: rgba(0,0,0,0.85);
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -65,9 +64,9 @@ body, .onepage-wrapper, html {
   width: 10px;
   height: 10px;
   background: none;
-  border: 1px solid #333;
+  border: 1px solid black;
   margin-top: -4px;
-  left: 8px;
+  left: 5.5px;
 }
 
 .disabled-onepage-scroll, .disabled-onepage-scroll .wrapper {
@@ -101,4 +100,3 @@ body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
   margin: 0 auto;
   overflow: hidden;
 }
-
