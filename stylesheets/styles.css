@@ -11,6 +11,7 @@ h1 {
   font-family: chippewa-falls, sans-serif;
   font-weight: 500;
   font-style: normal;
+  color: #ac3b61;
 }
 
 h2 {
@@ -19,6 +20,35 @@ h2 {
   font-style: normal;
 }
 
+.blue {
+  color: #123c69;
+}
+
 p {
   font-size: 16px;
+}
+
+.page1 {
+  background: #EDC7B7;
+}
+
+.page2 {
+  background: #eee2dc;
+}
+
+.page3 {
+  background: #bab2b5;
+}
+
+.page4 {
+  background: #EDC7B7;
+}
+
+.page5 {
+  /* background: #ac3b61; */
+  background: #eee2dc;
+}
+
+.page6 {
+  background: #bab2b5;
 }
